@@ -1,0 +1,10 @@
+name = "CompilerBridge"
+uuid = "38680d96-a887-4097-950a-f9c109eb5d96"
+authors = ["Shuhei Kadowaki <aviatesk@gmail.com>"]
+version = "0.0.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
